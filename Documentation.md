@@ -17,3 +17,4 @@ The pairing e: G1 x G2 -> GT is the optimal ate pairing.
 mcl treats G1 and G2 as an additive group and GT as a multiplicative group.
 
 mclSize ; unsigned int if WebAssembly else size_t
+from https://github.com/herumi/mcl/blob/master/api.md#notation
